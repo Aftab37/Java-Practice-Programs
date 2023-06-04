@@ -1,4 +1,4 @@
-import java.lang.reflect.Array;
+
 import java.util.Scanner;
 public class Taking_input_for_2D_Array {
     public static void main(String[] args) {
@@ -31,8 +31,6 @@ public class Taking_input_for_2D_Array {
             }
             System.out.println();
         }
-
-
     }
 
 }

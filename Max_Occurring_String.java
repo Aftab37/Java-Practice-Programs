@@ -26,8 +26,6 @@ public class Max_Occurring_String {
             }
 
         }
-
-
         return ans;
     }
 }

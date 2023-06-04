@@ -3,7 +3,6 @@ import java.util.Set;
 import java.util.Scanner;
 
 public class Hashset {
-
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         String inputWord = in.nextLine();
@@ -22,8 +21,6 @@ public class Hashset {
             }
         }
         return true;
-
-
     }
 
 

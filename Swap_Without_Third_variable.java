@@ -7,7 +7,6 @@ public class Swap_Without_Third_variable {
 
         SwapWithoutThirdVariable(m, n);
     }
-
     static void SwapWithoutThirdVariable(int a, int b){
         a = a - b;
         b = a + b;
